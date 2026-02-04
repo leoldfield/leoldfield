@@ -1,4 +1,8 @@
-## Hi there 👋
+## Lin Oldfield
+
+I'm a senior at the University of Arkansas at Little Rock, studying Computer Science. I'm interested in data analysis, database management, and front-end development. 
+
+Outside of work, I like playing video games and tabletop roleplaying games. 
 
 <!--
 **leoldfield/leoldfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
