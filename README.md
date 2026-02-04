@@ -1,5 +1,8 @@
-## Lin Oldfield
-### she/they
+### Lin Oldfield
+#### she/they
+
+---
+
 I'm a senior at the University of Arkansas at Little Rock, studying Computer Science. I'm interested in data analysis, database management, and front-end development. 
 
 Outside of work, I like playing video games and tabletop roleplaying games. 
